@@ -1,0 +1,33 @@
+{
+	"name": "imjano_compress_image",
+	"version": "1.0.0",
+	"main": "module/index",
+	"scripts": {
+		"build": "tsc"
+	},
+	"types": "module/index.d.ts",
+	"keywords": [
+		"compress image",
+		"compress image size",
+		"compress",
+		"image",
+		"size",
+		"client side",
+		"basic function",
+		"imjano"
+	],
+	"author": "Alejandro Garcia <imjano@outlook.com>",
+	"license": "ISC",
+	"description": "Compresses an image file while allowing control over quality, file size, and format.",
+	"devDependencies": {
+		"typescript": "^5.0.4"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/imthejano/compress_image.git"
+	},
+	"bugs": {
+		"url": "https://github.com/imthejano/compress_image/issues"
+	},
+	"homepage": "https://github.com/imthejano/compress_image#readme"
+}
