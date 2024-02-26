@@ -5,7 +5,7 @@ Compresses an image file while allowing control over quality, file size, and for
 ## Installation
 
 ```bash
-npm install imjano_compress_image
+npm install @imjano/compress_image
 ```
 
 ## Usage

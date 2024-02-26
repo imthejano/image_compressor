@@ -1,5 +1,5 @@
 {
-	"name": "imjano_compress_image",
+	"name": "@imjano/compress_image",
 	"version": "1.0.0",
 	"main": "module/index",
 	"scripts": {
